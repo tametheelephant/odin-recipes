@@ -1,0 +1,25 @@
+
+* {
+  box-sizing: border-box;
+  font-family: Helvetica, sans-serif;
+  padding: 8px;
+  margin: 8px;
+}
+
+.title {
+  background-color: bisque;
+  text-align: center;
+  font-size: 32px;
+}
+
+.recipe-list {
+  background-color: lightgrey;
+  padding: 8px auto;
+  list-style-position: inside;
+}
+
+.recipe-item {
+  margin: 4px;
+  font-size: 20px;
+  border: 1px solid black;
+}
